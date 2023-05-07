@@ -16,8 +16,8 @@ export function defaultSetting(): UserState {
   return {
     userInfo: {
       avatar: 'https://raw.githubusercontent.com/Chanzhaoyu/chatgpt-web/main/src/assets/avatar.jpg',
-      name: '科技小飞哥',
-      description: 'Youtube频道 <a href="https://www.youtube.com/@techxiaofei" class="text-blue-500" target="_blank" >科技小飞哥</a>',
+      name: '落日偏西',
+      description: 'chatgpt <a href="https://zhuhongsh.top" class="text-blue-500" target="_blank" >落日偏西</a>',
     },
   }
 }
